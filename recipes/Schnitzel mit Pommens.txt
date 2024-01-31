@@ -1,10 +1,12 @@
 #Rezeptart
+
 Fleisch
-Hauptspeise
 Kochen
+Hauptspeise
 
 #Zutaten
-4 stk.	Schnitzel(Schweinefleisch)
+
+4 stk.	Schweineschnitzel
 n. B.	Kräutersalz und Pfeffer, frisch gemahlen
 0,08 kg	Mehl, fein gesiebt
 0,12 kg	Semmelbrösel
@@ -44,3 +46,9 @@ Den Kopfsalat putzen und waschen. In eine Salatschüssel geben.
 Für das Dressing die Zitrone auspressen, 2 EL abmessen, in eine kleine Schüssel geben. Mit den restlichen Zutaten verrühren und abschmecken, Salatsauce über den Salat gießen. Den Schnittlauch in Röllchen schneiden und darüber streuen.
 
 Eventuell mit Zitronenspalten anrichten.
+
+# Zusatzdaten
+
+Arbeitszeit: 60 Minuten
+Kochzeit: 30 Minuten
+Gesamtzeit: 1 Stunde 30 Minuten

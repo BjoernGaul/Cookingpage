@@ -2,7 +2,8 @@
 
 Fisch
 Kochen
-Hauptgang
+Hauptspeise
+Edel
 
 #Zutaten
 
@@ -25,3 +26,9 @@ Die Zucchini und Karotten in Streifen schneiden und auf ein mit Backpapier beleg
 Nach diesen 10 - 15 Min. das Blech rausnehmen und die Alufolie entfernen. Die Fische auf das Gemüseblech legen und Olivenöl darüberträufeln. Wieder in den Ofen schieben und nochmal 20 Min. fertig braten.
 
 Bis der Fisch fertig ist, den in circa 1.5 mm breite Streifen geschnittenen Krautstiel im heißen Salzwasser kochen. Das Wasser abgießen und den Krautstiel mit Fisch und Gemüse auf einem Teller anrichten.
+
+# Zusatzdaten
+
+Arbeitszeit: 20 Minuten
+Kochzeit: 35 Minuten
+Gesamtzeit: 00 Stunde 55 Minuten

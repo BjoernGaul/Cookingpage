@@ -2,7 +2,9 @@
 
 Fisch
 Kochen
-Hauptspeiße
+Hauptspeise
+Edel
+Schnell
 
 #Zutaten
 
@@ -23,3 +25,9 @@ Auf einen heißen Grill geben und unter ständigem Wenden etwa 8 Minuten grillen
 Aus Olivenöl, Zitronensaft, mit Salz zerdrücktem Knoblauch und Petersilie eine Sauce rühren und darüber träufeln.
 
 Die Kaisergranat auf einer vorgewärmten Platte hübsch arrangieren und mit Zitronenachteln garniert servieren.
+
+# Zusatzdaten
+
+Arbeitszeit: 20 Minuten
+Kochzeit: 00 Minuten
+Gesamtzeit: 00 Stunde 20 Minuten

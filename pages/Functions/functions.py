@@ -37,8 +37,9 @@ def getRecipe(rezeptPfad):
     zutatenListe = []
     zubereitungstext = ''
     sonstiges = ''
+
     # Öffne den Inhalt der Datei/Rezepts und lies zeilenweise die Zeilen des Rezeptes ein
-    with open(rezeptPfad, encoding='utf-8') as file:
+    with open(rezeptPfad,encoding='utf-8', errors='ignore') as file:
         for zeile in file:
             if zeile[0] == '#':  # wir haben eine Überschrift;ein Hashtag
                 zeile = zeile.strip('#').strip()  # Bereinigte Überschrift
@@ -233,7 +234,7 @@ def einkaufslst():
 
 #rezeptausgabe
 def recipeprint(recipe):
-
+    print(recipe)
     recipeindex = recipe[0]
     #print(recipeindex)
     zutatenLst = rezepteLst[recipeindex]['Zutaten']
@@ -258,19 +259,16 @@ def recipeprint(recipe):
         for zutat in zutaten:
             st.write(str(zutaten[zutat])+zutat)
 
-
-        if st.button('Zur Einkaufsliste Hinzufügen'):
+        if st.button('Zur Einkaufsliste hinzufügen'):
             einkaufslst()
-
-
+            st.toast('Zur Einkaufliste hinzugefügt')
 
     col2.header('Anleitung:')
     with col2:
         st.write(rezepteLst[recipeindex]['Zubereitung'])
 
-
     st.header('Zusatzdaten')
-    st.text(rezepteLst[recipeindex]['Sonstiges'])
+    (st.write(rezepteLst[recipeindex]['Sonstiges']))
 
 
 

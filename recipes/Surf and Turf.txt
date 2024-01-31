@@ -3,7 +3,8 @@
 Fisch
 Fleisch
 Kochen
-Hauptgang
+Hauptspeise
+Edel
 
 #Zutaten
 
@@ -49,3 +50,9 @@ Den Spargel in Kräuterbutter in einer weiteren Pfanne anbraten und ebenfalls bi
 5 Minuten bevor die Kartoffeln und der Hummer fertig sind, das Fleisch auch zum Garen in den Ofen geben.
 
 Den Bratensaft aus der Alufolie auffangen und in die Sauce einrühren. Anschließend servieren.
+
+# Zusatzdaten
+
+Arbeitszeit: 45 Minuten
+Kochzeit: 30 Minuten
+Gesamtzeit: 1 Stunde 15 Minuten

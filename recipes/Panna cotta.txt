@@ -1,12 +1,10 @@
 #Rezeptart
 
 Vegetarisch
-Ungekocht
+Kochen
 Nachspeise
 
 #Zutaten
-
-
 
 Für die Panna cotta:
 0,4 kg	  Sahne
@@ -30,3 +28,10 @@ Den Topf vom Herd nehmen, die Vanilleschoten herausnehmen und die ausgedrückte 
 Die Beeren waschen, ggf. schlechte Stellen und Stiel entfernen, klein schneiden und mit 4 EL Zucker erwärmen und leicht zerkochen lassen.
 
 Panna cotta aus den Förmchen stürzen (mit warmem Messer ringsherum schneiden oder das Förmchen kurz in heißes Wasser halten, falls es nicht klappen sollte). Panna cotta mit dem Beerenkompott garnieren.
+
+# Zusatzdaten
+
+Arbeitszeit: 25 Minuten
+Kochzeit: 20 Minuten
+Ruhezeit: 10 Stunden
+Gesamtzeit: 10 Stunde 45 Minuten

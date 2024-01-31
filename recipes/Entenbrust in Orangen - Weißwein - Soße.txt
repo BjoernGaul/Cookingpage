@@ -4,7 +4,7 @@ Fleisch
 Kochen
 Hauptspeise
 
-#Zutaten
+#Zutarten
 
 4 stk.	Entenbrüste
 etwas   Butter
@@ -30,3 +30,10 @@ In einer Pfanne etwas Butter erhitzen und die Entenbrüste mit der Fettseite dar
 Entenbrüste aus dem Ofen nehmen und den Bratenfond durch ein Sieb in einen Topf abgießen. Bratenfond mit der Brühe, Orangensaft und Weißwein auffüllen und kurz aufkochen. Soße mit Pfeffer und Salz nachwürzen und 5 - 6 zerdrückte Pfefferkörner hinzugeben. Mit Speisestärke abbinden.
 
 Zwischenzeitlich bereits den Brokkoli in Salzwasser kochen. Er sollte allerdings noch bissfest sein. Abgießen und abtropfen lassen. Butter und Mandeln in einem Topf schwenken und über den gegarten Brokkoli geben.
+
+# Zusatzdaten
+
+Arbeitszeit: 45 Minuten
+Kochzeit: 45 Minuten
+Gesamtzeit:1  Stunde 30 Minuten
+

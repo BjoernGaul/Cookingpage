@@ -1,32 +1,38 @@
-Gazpacho
-
 #Rezeptart
-Vorspeise, Schnell, Ungekocht, Vegan
+
+Vorspeise
+Schnell
+Ungekocht
+Vegan
 
 #Zutaten
-3 stk.    große Tomate(n), reife
-1	       Paprikaschote(n), rot oder grün
-1	       Brötchen
+
+3 stk.    groÃŸe Tomate(n), reife
+1	       Paprikaschote(n), rot oder grÃ¼n
+1	       BrÃ¶tchen
 2 stk.    Knoblauchzehe(n)
-1 Dose Tomate(n), stückige (Pizzatomaten)
+1 Dose Tomate(n), stÃ¼ckige (Pizzatomaten)
 1 TL       Salz
-5 EL	Olivenöl
+5 EL	OlivenÃ¶l
 5 EL	Essig
 n. B.	Wasser
 
 #Zubereitung
-Das Brötchen in Wasser einweichen, das Gemüse putzen, waschen und grob zerkleinern. Das Brötchen ausdrücken und zusammen mit dem Gemüse, den Pizzatomaten, Essig, Olivenöl und Salz in eine hohe Rührschüssel oder in den Mixer geben.
 
-Mit dem Pürierstab oder im Mixer alles pürieren, dann diese Mischung in eine große Schüssel geben und erst mit einem halben Liter kaltem Wasser auffüllen, dann abschmecken. Sollte es noch zu kräftig vom Geschmack sein, kann man weiter etwas Wasser zugeben, aber nicht zu viel, sonst wird es nachher zu lasch.
+Das BrÃ¶tchen in Wasser einweichen, das GemÃ¼se putzen, waschen und grob zerkleinern. Das BrÃ¶tchen ausdrÃ¼cken und zusammen mit dem GemÃ¼se, den Pizzatomaten, Essig, OlivenÃ¶l und Salz in eine hohe RÃ¼hrschÃ¼ssel oder in den Mixer geben.
 
-Eine genaue Wassermenge lässt sich bei diesem Rezept nicht leicht angeben, da die Geschmacksrichtungen ja verschieden sind, manche mögen es kräftig und manche weniger. Deshalb ist es immer besser mit weniger Wasser zu beginnen, um es dann so abzuschmecken, wie man es am liebsten hat. Man kann die Suppe auch durch ein Sieb streichen, wenn man keine Stückchen drin haben möchte.
+Mit dem PÃ¼rierstab oder im Mixer alles pÃ¼rieren, dann diese Mischung in eine groÃŸe SchÃ¼ssel geben und erst mit einem halben Liter kaltem Wasser auffÃ¼llen, dann abschmecken. Sollte es noch zu krÃ¤ftig vom Geschmack sein, kann man weiter etwas Wasser zugeben, aber nicht zu viel, sonst wird es nachher zu lasch.
 
-Auf diese Art macht man Gazpacho Andaluz, wo ich herkomme, ein Städtchen in der Nähe von Sevilla, aber jedes Dorf oder Stadt im Süden Spaniens hat sein eigenes Rezept und jeder wird behaupten, dass sein Rezept das Echte ist.
+Eine genaue Wassermenge lÃ¤sst sich bei diesem Rezept nicht leicht angeben, da die Geschmacksrichtungen ja verschieden sind, manche mÃ¶gen es krÃ¤ftig und manche weniger. Deshalb ist es immer besser mit weniger Wasser zu beginnen, um es dann so abzuschmecken, wie man es am liebsten hat. Man kann die Suppe auch durch ein Sieb streichen, wenn man keine StÃ¼ckchen drin haben mÃ¶chte.
 
-In Spanien wird es nur aus frischen Tomaten hergestellt, aber hier würde die Suppe nur mit frischen Tomaten etwas blass werden, darum die Dose.
+Auf diese Art macht man Gazpacho Andaluz, wo ich herkomme, ein StÃ¤dtchen in der NÃ¤he von Sevilla, aber jedes Dorf oder Stadt im SÃ¼den Spaniens hat sein eigenes Rezept und jeder wird behaupten, dass sein Rezept das Echte ist.
 
-Serviert wird es immer eiskalt und wird in Tassen getrunken (immer vorher mit der Kelle umrühren, denn das pürierte Gemüse setzt sich unten ab).
+In Spanien wird es nur aus frischen Tomaten hergestellt, aber hier wÃ¼rde die Suppe nur mit frischen Tomaten etwas blass werden, darum die Dose.
 
-#Zusatzdaten
-Arbeitszeit: 25 Minuten
-Gesamtzeit: 00 Stunde 25 Minute
+Serviert wird es immer eiskalt und wird in Tassen getrunken (immer vorher mit der Kelle umrÃ¼hren, denn das pÃ¼rierte GemÃ¼se setzt sich unten ab).
+
+# Zusatzdaten
+
+Arbeitszeit: 00 Minuten
+Kochzeit: 25 Minuten
+Gesamtzeit: 00 Stunde 25 Minuten

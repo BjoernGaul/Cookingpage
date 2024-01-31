@@ -3,6 +3,8 @@
 Fisch
 Kochen
 Vorspeise
+Edel
+Schnell
 
 #Zutaten
 
@@ -26,3 +28,9 @@ Avocado schälen und in einen hohen Mixbehälter geben, sofort mit dem Zitronens
 
 Die Jakobsmuschueln mit Zitronensaft beträufeln, salzen und pfeffern. Zitronenöl in einer Grillpfanne heiss werden lassen, Knoblauchzehe und Rosmarinzweig hinzugeben und kurz anbraten. Jakobsmuscheln hinzugeben und auf beiden Seiten je 2 Minuten braten.
 Während dieser Zeit die Avocadocreme auf den Tellern anrichten. Gebratene Jakobsmuscheln auf der Avocadocreme verteilen und sofort servieren.
+
+# Zusatzdaten
+
+Arbeitszeit: 10 Minuten
+Kochzeit: 10 Minuten
+Gesamtzeit: 00 Stunde 20 Minuten

@@ -1,3 +1,10 @@
+#Rezeptart
+
+Fleisch
+Kochen
+Hauptspeise
+Schnell
+
 #Zutaten
 
 
@@ -20,3 +27,9 @@ Die Ecken der Quadrate zur Mitte hin einschlagen und die überstehenden Ecken no
 Jedes Päckchen mit etwas Abstand auf ein Blech mit Backpapier legen und die Oberseite jedes Päckchens mit etwas verquirltem Eiklar bestreichen.
 Darauf den geriebenen Käse verteilen.
 Nun das Blech in den vorgeheizten Backofen schieben und bei 175°C Umluft etwa 20 min überbacken.
+
+# Zusatzdaten
+
+Arbeitszeit: 15 Minuten
+Kochzeit: 20 Minuten
+Gesamtzeit: 00 Stunde 35 Minuten

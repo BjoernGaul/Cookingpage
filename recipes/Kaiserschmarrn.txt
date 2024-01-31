@@ -1,3 +1,9 @@
+#Rezeptart
+
+Vegetarisch
+Kochen
+Nachspeise
+
 #Zutaten
 
 6 stk.	Eigelb
@@ -21,3 +27,8 @@ Dann das Eiweiß zu einem festen Eischnee aufschlagen und mit einem Löffel lang
 In einer Pfanne Butter zerlassen und den Teig ca. 1 cm hoch eingießen. Hitze etwas reduzieren und goldgelb anbacken lassen. Immer mal wieder drunter schauen. Die Masse vierteln, umdrehen und wieder anbacken lassen. In mundgerechte Stücke teilen, mit 2 TL Zucker bestreuen und kurz karamellisieren lassen.
 Fast fertig: Auf Tellern anrichten und mit Puderzucker bestäuben.
 
+# Zusatzdaten
+
+Arbeitszeit: 45 Minuten
+Kochzeit: 15 Minuten
+Gesamtzeit: 1 Stunde 00 Minuten

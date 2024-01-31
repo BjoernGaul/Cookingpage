@@ -53,7 +53,7 @@ if st.button("Speichern"):
             st.warning(f"Rezept mit dem Titel '{title}' existiert bereits.")
         else:
             # Texte und Bild in die Dateien schreiben
-            with open(file_path, "w") as file:
+            with open(file_path, "w", encoding='utf-8') as file:
                 file.write(
                     f"{title}\n\n#Rezeptart\n{user_input1}\n\n#Zutaten\n{user_input2}\n\n#Zubereitung\n{user_input3}\n\n#Zusatzdaten\n{user_input4}\n"
                 )

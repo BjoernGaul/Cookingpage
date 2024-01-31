@@ -2,7 +2,6 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 import json
 import requests
-from googletrans import Translator  # Install with: pip install googletrans==4.0.0-rc1
 import os
 from pages.Functions.functions import holeAlleRezepte
 from pages.Functions.functions import getRecipe
@@ -59,9 +58,12 @@ dateien = os.listdir(ordner_pfad)
 textdateien = [datei for datei in dateien if datei.endswith('.txt')]
 anzahl_rezepte = len(textdateien)
 # Funktion zum Laden von Lottie-Dateien
+
+
 def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
         return json.load(f)
+
 
 # Funktion zum Laden von Lottie-URLs
 def load_lottieurl(url: str):
@@ -70,21 +72,9 @@ def load_lottieurl(url: str):
         return None
     return r.json()
 
-# Funktion zur Übersetzung von Texten
-def translate_text(text, target_language):
-    translator = Translator()
-    translation = translator.translate(text, dest=target_language)
-    return translation.text
 
-# Setze die Standard-Sprache auf Englisch
-selected_language = "en"
-
-# Slider zum Ändern der Sprache oben rechts
-selected_language = st.sidebar.select_slider("Select Language", ["en", "de"], key="language_slider")
-
-# Übersetzungen für alle Texte
-translated_title = translate_text("Welcome to Chefblob", selected_language)
-translated_text = translate_text(f"Chefblob wurde von der Schülergruppe Björn, Leon und Sebastian ins Leben gerufen und präsentiert stolz eine Auswahl von derzeit {anzahl_rezepte} Rezepten. Wir setzen jedoch fortlaufend daran, diese Sammlung zu erweitern. Zusätzlich haben Nutzer die Möglichkeit, eigene Rezepte beizusteuern. Chefblob ist eine zuverlässige Ressource für Hobbyköche, die sorgfältig ausgewählte Rezepte und Anleitungen bietet.", selected_language)
+title = "Welcome to Chefblob"
+text = f"Chefblob wurde von der Schülergruppe Björn, Leon und Sebastian ins Leben gerufen und präsentiert stolz eine Auswahl von derzeit {anzahl_rezepte} Rezepten. Wir setzen jedoch fortlaufend daran, diese Sammlung zu erweitern. Zusätzlich haben Nutzer die Möglichkeit, eigene Rezepte beizusteuern. Chefblob ist eine zuverlässige Ressource für Hobbyköche, die sorgfältig ausgewählte Rezepte und Anleitungen bietet."
 
 # Dein bisheriger Code mit den übersetzten Texten
 st.sidebar.success("Select a page above.")
@@ -92,8 +82,8 @@ st.image('./MicrosoftTeams-image.png', use_column_width=True)
 
 lottie_coding = load_lottiefile("./Recipe.json")
 
-st.markdown(f"<h1 style='text-align: center; font-size: 52px;'>{translated_title}</h1>", unsafe_allow_html=True)
-st.markdown(f"<h1 style='text-align: center;'>{translated_text}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='text-align: center; font-size: 52px;'>{title}</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='text-align: center;'>{text}</h1>", unsafe_allow_html=True)
 
 st_lottie(
     lottie_coding,

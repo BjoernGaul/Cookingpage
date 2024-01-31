@@ -1,0 +1,26 @@
+#Rezeptart
+
+Vegan
+Ungekocht
+Nachspeise
+
+
+#Zutaten
+
+0,15 kg	Zucker
+0,25 l	Wasser
+2 stk.	Zitrone(n)
+1 stk.	Vanilleschote(n)
+etwas	Minze, möglichst frisch
+1 stk.	Eiweiß
+
+#Zubereitung
+
+Die Zitronen schälen. Die Schale in dem Wasser mit dem Zucker, dem Mark der Vanilleschote und den klein geschnittenen Minzblättern kurz aufkochen. Die Zitronenschale daraus entfernen und abkühlen lassen. Dann den Saft der Zitronen zufügen, das Eiweiß steif schlagen, unter die die Masse schlagen und in der Eismaschine gefrieren lassen.
+
+# Zusatzdaten
+
+Arbeitszeit:10  Minuten
+Kochzeit: 00 Minuten
+Ruhezeit: 8 Stunden
+Gesamtzeit: 08 Stunde 10 Minuten

@@ -3,6 +3,7 @@
 Fisch
 Kochen 
 Vorspeise
+Schnell
 
 #Zutaten
 
@@ -19,3 +20,9 @@ n. B.	Lachskaviar (Keta-Kaviar) zum Garnieren
 Das Forellenfilet mit dem Schneidstab des Handrührgerätes in der Sahne pürieren. Mit Salz, Pfeffer und Meerrettich abschmecken.
 
 Die Creme in einen Spritzbeutel mit Sterntülle füllen. Auf die Pumpernickel spritzen. Mit Petersilienblättchen und Kaviar garnieren.
+
+# Zusatzdaten
+
+Arbeitszeit: 15 Minuten
+Kochzeit: 00 Minuten
+Gesamtzeit: 00 Stunde 15 Minuten

@@ -1,0 +1,35 @@
+#Rezeptart
+
+Fisch
+Ungekocht
+Vorspeise
+Schnell
+
+#Zutaten
+
+1 Dose	Thunfisch
+1 Dose	Mais
+3 stk.	Tomate(n)
+2 stk.	Paprikaschote(n), grün und gelb
+0,2 kg	Schafskäse oder Feta-Käse
+3 stk.	Ei(er), hart gekocht
+½ stk.	Zwiebel(n)
+etwas   Salz und Pfeffer
+etwas   Essig
+etwas	Öl
+
+#Zubereitung
+
+Den Thunfisch mit dem Öl in eine Schüssel geben und mit einer Gabel zerteilen. Den Mais abtropfen lassen und unter den Thunfisch mischen.
+
+Zwei Tomaten, die Paprikaschoten, den Schafskäse und die Zwiebel in kleine Würfel schneiden und untermischen. Zwei der Eier ebenfalls in Würfel schneiden und untermischen.
+
+Den Salat nun mit Salz und Pfeffer abschmecken. Etwas Essig zugeben und je nach Geschmack auch noch etwas Öl. Ist aber bei in Öl eingelegtem Thunfisch nicht mehr notwendig.
+
+Die restliche Tomate und ein Ei in Spalten schneiden und den Salat damit garnieren.
+
+# Zusatzdaten
+
+Arbeitszeit: 30 Minuten
+Kochzeit: 00 Minuten
+Gesamtzeit: 00 Stunde 30 Minuten

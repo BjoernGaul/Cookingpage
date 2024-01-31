@@ -1,27 +1,31 @@
-Saure Zipfel
-
 #Rezeptart
-Fleisch, Kochen, Hauptspeise
+
+Fleisch
+Kochen
+Hauptspeise
 
 #Zutaten
-24 kleine	Nürnberger Rostbratwürstchen à ca. 25 g
-1 Liter	Fleischbrühe
-100 ml	Essig, weißer (5% Säure)
+
+24 kleine	NÃ¼rnberger RostbratwÃ¼rstchen Ã  ca. 25 g
+1 Liter	FleischbrÃ¼he
+100 ml	Essig, weiÃŸer (5% SÃ¤ure)
 6 stk.	Wacholderbeere(n)
-3 stk.	Lorbeerblätter
+3 stk.	LorbeerblÃ¤tter
 30 g	Zucker
-1 TL	Pfeffer, schwarzer aus der Mühle
-200 ml	Weißwein, am besten fränkischer Silvaner
-4  stk. m.-große	Zwiebel(n)
+1 TL	Pfeffer, schwarzer aus der MÃ¼hle
+200 ml	WeiÃŸwein, am besten frÃ¤nkischer Silvaner
+4  stk. m.-groÃŸe	Zwiebel(n)
 
 #Zubereitung
-Die Fleischbrühe aufkochen lassen, Essig, Wein und sämtliche Gewürze dazu geben. Die Zwiebeln halbieren, in dünne Scheiben schneiden, dazu geben und alles ca. 15 Minuten sieden lassen. Nun die Nürnberger Bratwürstchen dazu geben und 10 Minuten im schwach siedenden Sud ziehen lassen.
 
-Pro Portion 6 Würstchen in tiefe Teller oder kleine Terrinen geben und etwas von dem Sud samt Zwiebeln darüber schöpfen.
+Die FleischbrÃ¼he aufkochen lassen, Essig, Wein und sÃ¤mtliche GewÃ¼rze dazu geben. Die Zwiebeln halbieren, in dÃ¼nne Scheiben schneiden, dazu geben und alles ca. 15 Minuten sieden lassen. Nun die NÃ¼rnberger BratwÃ¼rstchen dazu geben und 10 Minuten im schwach siedenden Sud ziehen lassen.
+
+Pro Portion 6 WÃ¼rstchen in tiefe Teller oder kleine Terrinen geben und etwas von dem Sud samt Zwiebeln darÃ¼ber schÃ¶pfen.
 
 Dazu passt frisch geriebener Meerrettich und frisches Bauernbrot.
 
-#Zusatzdaten
-Arbeitszeit ca. 10 Minuten
-Koch-/Backzeit ca. 25 Minuten
-Gesamtzeit ca. 35 Minuten
+# Zusatzdaten
+
+Arbeitszeit: 10 Minuten
+Kochzeit: 15 Minuten
+Gesamtzeit: 00 Stunde 25 Minuten

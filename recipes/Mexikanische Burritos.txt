@@ -1,35 +1,40 @@
-Mexikanische Burritos
-
 #Rezeptart
-Fleisch, Kochen, Hauptspeise
+
+Fleisch
+Kochen
+Hauptspeise
 
 #Zutaten
-133 g	Tomaten, geschälte aus der Dose
-83,3 g	Maiskörner
+
+133 g	Tomaten, geschÃ¤lte aus der Dose
+83,3 g	MaiskÃ¶rner
 0,67 stk. Paprikaschote(n), rote
-0,67 stk. Paprikaschote(n), grüne
+0,67 stk. Paprikaschote(n), grÃ¼ne
 1,33 stk. Zwiebel(n)
-2,67 EL	Olivenöl
+2,67 EL	OlivenÃ¶l
 267 g	Hackfleisch
 etwas Salz und Pfeffer
 0,67 etwas	Cayennepfeffer
-0,33 TL	Kreuzkümmelpulver
+0,33 TL	KreuzkÃ¼mmelpulver
 0,67 EL	Tomatenmark
 0,67 Prise(n)	Zucker
 4 stk.	Weizentortilla(s)
-4 EL	Crème fraîche
-133 g	Käse, geriebener
+4 EL	CrÃ¨me fraÃ®che
+133 g	KÃ¤se, geriebener
 
 #Zubereitung
-Die Tomaten fein hacken und wieder in den Saft zurückgeben. Den Mais auf einem Sieb abtropfen lassen. Die Paprikaschoten putzen, entkernen, waschen, trocknen und in kleine Stücke schneiden. Die Zwiebeln schälen und würfeln.
 
-Das Olivenöl in einer Pfanne erhitzen und das Hackfleisch darin scharf anbraten. Zwiebeln und Paprika dazugeben und alles etwa 5 Minuten garen, bis das Fleisch durchgebraten ist. Mit Salz, Pfeffer, Cayennepfeffer und Kreuzkümmel kräftig würzen. Das Tomatenmark dazugeben, kurz mitrösten, dann die gehackten Tomaten mit dem Saft und den Mais unterrühren. Die Masse einige Minuten einkochen lassen, bis fast die gesamte Flüssigkeit verdampft ist.
+Die Tomaten fein hacken und wieder in den Saft zurÃ¼ckgeben. Den Mais auf einem Sieb abtropfen lassen. Die Paprikaschoten putzen, entkernen, waschen, trocknen und in kleine StÃ¼cke schneiden. Die Zwiebeln schÃ¤len und wÃ¼rfeln.
 
-Mit den Gewürzen und etwas Zucker abschmecken. Die Tortillas mit der Crème fraîche bestreichen und die Hackfleischmasse gleichmäßig darauf verteilen. Mit etwas geriebenem Käse bestreuen. Die Tortillas zu Burritos aufrollen und in eine Auflaufform legen. Mit dem restlichen geriebenen Käse bestreuen.
+Das OlivenÃ¶l in einer Pfanne erhitzen und das Hackfleisch darin scharf anbraten. Zwiebeln und Paprika dazugeben und alles etwa 5 Minuten garen, bis das Fleisch durchgebraten ist. Mit Salz, Pfeffer, Cayennepfeffer und KreuzkÃ¼mmel krÃ¤ftig wÃ¼rzen. Das Tomatenmark dazugeben, kurz mitrÃ¶sten, dann die gehackten Tomaten mit dem Saft und den Mais unterrÃ¼hren. Die Masse einige Minuten einkochen lassen, bis fast die gesamte FlÃ¼ssigkeit verdampft ist.
 
-Bei 200 °C Ober-/Unterhitze im vorgeheizten Backofen ca. 4 - 5 Minuten überbacken, bis der Käse zerlaufen ist. Sofort servieren.
+Mit den GewÃ¼rzen und etwas Zucker abschmecken. Die Tortillas mit der CrÃ¨me fraÃ®che bestreichen und die Hackfleischmasse gleichmÃ¤ÃŸig darauf verteilen. Mit etwas geriebenem KÃ¤se bestreuen. Die Tortillas zu Burritos aufrollen und in eine Auflaufform legen. Mit dem restlichen geriebenen KÃ¤se bestreuen.
 
-#Zusatzdaten
-Arbeitszeit ca. 30 Minuten
-Koch-/Backzeit ca. 20 Minuten
-Gesamtzeit ca. 50 Minuten
+Bei 200 Â°C Ober-/Unterhitze im vorgeheizten Backofen ca. 4 - 5 Minuten Ã¼berbacken, bis der KÃ¤se zerlaufen ist. Sofort servieren.
+
+
+# Zusatzdaten
+
+Arbeitszeit: 30 Minuten
+Kochzeit: 20 Minuten
+Gesamtzeit: 00 Stunde 50 Minuten

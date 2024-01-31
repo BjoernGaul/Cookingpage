@@ -1,28 +1,33 @@
-Spinat-Quesadillas
-
 #Rezeptart
-Vegetarisch, Ungekocht, Hauptspeise, Schnell
+
+Vegetarisch
+Ungekocht
+Hauptspeise
+Schnell
 
 #Zutaten
+
 8  stk.	  Weizentortilla(s)
-107  g	  Käse, geriebener (wir haben 40 g Cheddar und 40 g Mozzarella genommen)
+107  g	  KÃ¤se, geriebener (wir haben 40 g Cheddar und 40 g Mozzarella genommen)
 400  g	  Spinat 
 n. B.         Salz und Pfeffer
 1,33 stk.  Knoblauchzehe(n), durchgepresst oder gehackt
-n. B.          Öl zum Braten
+n. B.          Ã–l zum Braten
 
 #Zubereitung
-Die wichtigste Zutat ist natürlich der Spinat. Am besten eignet sich hier Tiefkühlspinat, naturbelassen, ohne Rahm, den Ihr auftauen lasst und anschließend gut ausdrückt, damit die Füllung nicht zu wässrig wird. Zu dem Spinat kommen dann noch der Knoblauch, Pfeffer, Salz und 30 g von der Käsemischung. Bei dem Käse schmeckt es besonders gut, wenn Ihr eine Mischung aus kräftigem Cheddar und mildem Mozzarella nehmt. Schmeckt prima! Gouda passt aber auch.
 
-Dann geht es mit dem Füllen der Weizentortillas weiter: Ihr streut jeweils etwas Käse auf eine der Weizentortillas, gebt dann Spinatmasse darauf und drückt sie leicht an, dann nochmal Käse und zum Schluss eine zweite Tortilla.
+Die wichtigste Zutat ist natÃ¼rlich der Spinat. Am besten eignet sich hier TiefkÃ¼hlspinat, naturbelassen, ohne Rahm, den Ihr auftauen lasst und anschlieÃŸend gut ausdrÃ¼ckt, damit die FÃ¼llung nicht zu wÃ¤ssrig wird. Zu dem Spinat kommen dann noch der Knoblauch, Pfeffer, Salz und 30 g von der KÃ¤semischung. Bei dem KÃ¤se schmeckt es besonders gut, wenn Ihr eine Mischung aus krÃ¤ftigem Cheddar und mildem Mozzarella nehmt. Schmeckt prima! Gouda passt aber auch.
 
-Dann kommen die Quesadillas auch schon in die Pfanne, wo sie in Öl bei niedriger Hitze (gekaufte Tortillas verbrennen sehr schnell!) von beiden Seiten goldbraun gebraten werden.
+Dann geht es mit dem FÃ¼llen der Weizentortillas weiter: Ihr streut jeweils etwas KÃ¤se auf eine der Weizentortillas, gebt dann Spinatmasse darauf und drÃ¼ckt sie leicht an, dann nochmal KÃ¤se und zum Schluss eine zweite Tortilla.
 
-Anschließend ist es sinnvoll, sie kurz auf Küchenpapier zu legen, damit überschüssiges Öl abtropfen kann.
+Dann kommen die Quesadillas auch schon in die Pfanne, wo sie in Ã–l bei niedriger Hitze (gekaufte Tortillas verbrennen sehr schnell!) von beiden Seiten goldbraun gebraten werden.
+
+AnschlieÃŸend ist es sinnvoll, sie kurz auf KÃ¼chenpapier zu legen, damit Ã¼berschÃ¼ssiges Ã–l abtropfen kann.
 
 Und fertig ist ein toller Partysnack der auch kalt schmeckt.
 
-#Zusatzdaten
+# Zusatzdaten
+
 Arbeitszeit: 30 Minuten
-Backzeit: 15 Minuten
-Gesamtzeit: 00 Stunde 45 Minute
+Kochzeit: 15 Minuten
+Gesamtzeit: 00 Stunde 45 Minuten

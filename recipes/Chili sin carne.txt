@@ -9,7 +9,7 @@ Hauptspeise
 
 120 g	  Sojagranulat, fein
 n. B.	  Gemüsebrühe
-1,6       Zwiebel(n), fein gewürfelt
+1,6	  Zwiebel(n), fein gewürfelt
 0,8 EL	  Butterschmalz
 1,6 Dose  Tomate(n), stückige
 1,6 Dose  Kidneybohnen
@@ -30,3 +30,10 @@ n. B.     Paprikapulver
 Das Sojagranulat nach Packungsanweisung zubereiten. In der Regel wird es mit Gemüsebrühe aufgekocht und dann lässt man es quellen. Danach in ein Nudelsieb schütten und gründlich abspülen. Nun das Granulat mit den Händen gründlich auspressen. Dadurch verschwindet der etwas strenge Soja Geruch.
 
 In einem Topf das Butterschmalz zerlassen und das Sojagranulat mit den Zwiebeln anbraten (ca. 5 Minuten). Anschließend die Dosentomaten, den Mais, die Bohnen, die Paprika- und Chiliwürfel, 4 großzügige EL Tomatenmark und 1 EL Zucker dazugeben und mindestens 30 Minuten köcheln lassen, dabei öfter umrühren. Mit Gemüsebrühenpulver oder selbst gemachter Gemüsewürze, dem Majoran, Tabasco nach Geschmack, Pfeffer, Paprikapulver und 1 TL Kakaopulver abschmecken. Das Geheimnis eines guten Chilis ist eine lange Kochzeit. Am besten lässt man es nach dem Kochen noch mal komplett abkühlen und wärmt es dann noch mal langsam auf dem Herd auf. Und am nächsten Tag schmeckt es eh am besten.
+
+# Zusatzdaten
+
+Arbeitszeit: 45 Minuten
+Kochzeit: 30 Minuten
+Gesamtzeit: 1 Stunde 15 Minuten
+

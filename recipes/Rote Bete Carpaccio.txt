@@ -1,8 +1,9 @@
 #Rezeptart
 
 Vegan
-Kochen
-Vorspeiße
+Ungekocht
+Vorspeise
+Schnell
 
 #Zutaten
 
@@ -20,3 +21,9 @@ n. B.	 Pinienkerne, geröstet
 Die gegarten Rote Bete in sehr dünne Scheiben schneiden und auf einem Teller fächerartig anrichten. Den Schafskäse darüber bröseln und eine kleine Portion Rucola in die Mitte jedes Tellers geben.
 
 Die Nadeln von den Rosmarinzweigen abbrechen und sehr fein hacken. Mit dem Olivenöl und der Zitronenschale vermischen, evtl. mörsern. Wer es gerne sauer hat, kann noch etwas Zitronensaft hinzufügen. Über jeden Teller träufeln, mit den gerösteten Pinienkernen garnieren. Nach Belieben mit grobem Salz und Pfeffer verfeinern.
+
+# Zusatzdaten
+
+Arbeitszeit: 15 Minuten
+Kochzeit: 00 Minuten
+Gesamtzeit: 00 Stunde 15 Minuten

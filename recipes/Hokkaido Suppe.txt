@@ -1,7 +1,7 @@
 #Rezeptart
-Suppe
-Kochen
+
 Vegetarisch
+Kochen
 Vorspeise
 
 # Zutaten
@@ -10,14 +10,12 @@ Vorspeise
 4 m.-große	Kartoffel(n)
 2	Karotte(n)
 30 g	Butter
-1.25 Liter	Wasser
+1 ¼ Liter	Wasser
 Salz und Pfeffer
 Zucker
 Muskat
 100 ml	Sahne
 2 EL	Petersilie, gehackte
-
-
 
 # Zubereitung
 
@@ -40,6 +38,7 @@ Der Geschmack ändert sich dadurch nicht übermäßig,
 nur die Farbe bei viel grünem Gemüse.
 
 # Zusatzdaten
-Arbeitszeit ca. 25 Minuten
-Koch-/Backzeit ca. 30 Minuten
-Gesamtzeit ca. 55 Minuten
+
+Arbeitszeit: 25 Minuten
+Kochzeit: 30 Minuten
+Gesamtzeit:00  Stunde 55 Minuten

@@ -1,8 +1,5 @@
 import streamlit as st
-from PIL import Image
-import os
 from streamlit_lottie import st_lottie
-import json
 import random
 from pages.Functions.functions import search_recipe
 from pages.Functions.functions import rand3menue
@@ -84,7 +81,6 @@ def main():
         # print(st.session_state.recipe)
         recipeprint(st.session_state.recipe)
 
-
     lottie_coding = load_lottiefile("./Cook.json")
     st_lottie(
         lottie_coding,
@@ -100,13 +96,12 @@ def main():
     kategorien = ['Vorspeise', 'Hauptspeise', 'Nachspeise']
 
     for kategorie in kategorien:
-        kategorie_rezepte = [recipe for recipe in rezepteLst if kategorie in recipe['Rezeptart']]
+        kategorie_rezepte = [recipe['Name'] for recipe in rezepteLst if kategorie in recipe['Rezeptart']]
 
         if kategorie_rezepte:
             st.subheader(f"{kategorie}: {len(kategorie_rezepte)} Rezepte")
 
         else:
             st.warning(f"Kein Rezept für {kategorie} gefunden.")
-
 if __name__ == "__main__":
     main()

@@ -1,23 +1,29 @@
-Stadtwurst mit Musik
-
 #Rezeptart
-Fleisch, Ungekocht, Vorspeise, Edel, Schnell
+
+Fleisch
+Ungekocht
+Vorspeise
+Schnell
 
 #Zutaten
-400 g	Wurst, (Stadtwurst), geräuchert
-2 stk.  große	Zwiebel(n)
+
+400 g	Wurst, (Stadtwurst), gerÃ¤uchert
+2 stk.  groÃŸe	Zwiebel(n)
 4 stk.	Gurke(n), (Essiggurken)
-4 EL	Essig, (Weißweinessig)
-2 EL	Öl, (Sonnenblumenöl)
-etwas Salz und Pfeffer, aus der Mühle
+4 EL	Essig, (WeiÃŸweinessig)
+2 EL	Ã–l, (SonnenblumenÃ¶l)
+etwas Salz und Pfeffer, aus der MÃ¼hle
 
 #Zubereitung
-Die Stadtwurst häuten und in dünne Scheiben schneiden. Die Zwiebeln in ganz feine Ringe, die Essiggurken in Streifen oder kleine Würfelchen schneiden. In einer Schüssel alles mit dem Essig und dem Öl mischen, mit Salz und reichlich frisch gemahlenem Pfeffer würzen und im Kühlschrank gut durchziehen lassen.
 
-Dazu gibt es frisches Bauernbrot und ein kühles Bier.
+Die Stadtwurst hÃ¤uten und in dÃ¼nne Scheiben schneiden. Die Zwiebeln in ganz feine Ringe, die Essiggurken in Streifen oder kleine WÃ¼rfelchen schneiden. In einer SchÃ¼ssel alles mit dem Essig und dem Ã–l mischen, mit Salz und reichlich frisch gemahlenem Pfeffer wÃ¼rzen und im KÃ¼hlschrank gut durchziehen lassen.
 
-TIPP: Die Stadtwurst ist eine typisch fränkische Spezialität - eine geräucherte Wurst im Ring mit viel Majoran. Ersatzweise könnte man auch Jagdwurst oder grobe Schinkenwurst verwenden. Schmeckt dann natürlich nicht mehr original!
+Dazu gibt es frisches Bauernbrot und ein kÃ¼hles Bier.
 
-#Zusatzdaten
-Arbeitszeit ca. 10 Minuten
-Gesamtzeit ca. 10 Minuten
+TIPP: Die Stadtwurst ist eine typisch frÃ¤nkische SpezialitÃ¤t - eine gerÃ¤ucherte Wurst im Ring mit viel Majoran. Ersatzweise kÃ¶nnte man auch Jagdwurst oder grobe Schinkenwurst verwenden. Schmeckt dann natÃ¼rlich nicht mehr original!
+
+# Zusatzdaten
+
+Arbeitszeit: 10 Minuten
+Kochzeit: 00 Minuten
+Gesamtzeit: 00 Stunde 10 Minuten
